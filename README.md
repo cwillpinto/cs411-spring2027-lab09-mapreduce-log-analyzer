@@ -1,5 +1,7 @@
 # CS411 Spring 2027 · Lab 9: MapReduce Log Analyzer
 
+Starter template: https://github.com/cwillpinto/cs411-spring2027-lab09-mapreduce-log-analyzer
+
 Read the included handout. Complete the TODOs in `map.go`, `reduce.go`, and `coordinator.go`. `sequential.go` is a supplied independent baseline; the CLI injects a retry of the first map task.
 
 ```sh
@@ -18,7 +20,7 @@ If Blackboard links a template repository, choose **Use this template**, create 
 For a direct clone, first create an empty repository under your account. Replace the placeholders below with the starter link supplied in Blackboard and your own empty repository URL:
 
 ```sh
-git clone <instructor-starter-url>
+git clone https://github.com/cwillpinto/cs411-spring2027-lab09-mapreduce-log-analyzer
 cd <cloned-directory>
 git remote rename origin upstream
 git remote add origin <your-empty-repository-url>

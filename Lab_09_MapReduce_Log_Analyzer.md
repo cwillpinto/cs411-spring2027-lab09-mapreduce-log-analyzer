@@ -5,6 +5,8 @@
 **Due:** March 28, 2027  
 **Value:** 100 points
 
+**Starter repository:** [Open the Spring 2027 starter](https://github.com/cwillpinto/cs411-spring2027-lab09-mapreduce-log-analyzer)
+
 ## Purpose
 
 Build a MapReduce pipeline that counts request paths and status classes from web logs. Verify the distributed result against a sequential reference and prove that retrying a task does not double-count output.
