@@ -1,0 +1,10 @@
+GET /search 200
+GET /home 200
+POST /cart 201
+GET /search 503
+GET /search 200
+GET /home 404
+bad record
+GET /product 200
+POST /cart 500
+GET /search 200
